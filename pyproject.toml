@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "foxsh-py"
-version = "0.1.0"
+version = "0.1.5"
 description = "FoxShell for Debian"
 authors = ["Arcticfox"]
 readme = "README.md"
